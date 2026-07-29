@@ -12,17 +12,17 @@ A modern, full-stack food delivery application that streamlines the process of o
 
 ✅ **Menu Browsing** - Browse through restaurant menus with detailed food items and descriptions
 
-✅ **Secure Payments** - Multiple payment options for safe and secure transactions
+✅ **Secure Payments** - Multiple payment options for safe and secure transactions//wip
 
-✅ **Real-time Order Tracking** - GPS-enabled order tracking to monitor delivery in real-time
+✅ **Real-time Order Tracking** - GPS-enabled order tracking to monitor delivery in real-time//wip
 
 ✅ **Push Notifications** - Get timely updates about your order status
 
 ✅ **User-Friendly Interface** - Intuitive and responsive design for seamless experience
 
-✅ **Restaurant Management** - Dashboard for restaurants to manage orders and menus
+✅ **Restaurant Management** - Dashboard for restaurants to manage orders and menus //wip
 
-✅ **Order History** - Keep track of all previous orders
+✅ **Order History** - Keep track of all previous orders//wip
 
 ## Tech Stack
 
